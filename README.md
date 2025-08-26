@@ -1,10 +1,5 @@
-# Landing Page
-
-## About the project:
-The task is to create a web page from a design that will be provided by the Odin team. The goal is to practice html & css & flexbox skills. 
-
-## How many hours it took:
-(to be updated *or deleted..*)
-
-## Important:
-**Do not forget to commit early & often!**
+# Line-by-line breakdown
+This README will go through HTML & CSS files in this project line by line, and explain every part of it, including: 
+- The purpose of each tag
+- Why it's structured this way
+- How it relates to accessibility, styling with Flexbox, and web development best practices 
